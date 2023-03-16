@@ -6,7 +6,7 @@
     font-family:"outfit";
     display:flex;
     align-items:center;
-    height:100vh
+    height:100vh;
   }
 .card {
     width: 350px;
