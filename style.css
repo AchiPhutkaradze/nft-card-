@@ -4,6 +4,9 @@
     background-color:#0D192C;
     font-size: 18px;
     font-family:"outfit";
+    display:flex;
+    align-items:center;
+    height:100vh
   }
 .card {
     width: 350px;
